@@ -1,9 +1,12 @@
-[![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://rishavchanda.io)
+<div align="center">
+  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="MasterHead" width="100%"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Pravin Choudhary</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pravin-choudhary&label=Profile%20views&color=0e75b6&style=flat" alt="pravin-choudhary" /> </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pravin-choudhary" alt="pravin-choudhary" /></a> </p>
 
